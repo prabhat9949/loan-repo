@@ -1,0 +1,19 @@
+{
+  "algorithm": "Random Forest Classifier",
+  "training_accuracy": 1.0,
+  "testing_accuracy": 0.9888888888888889,
+  "precision": 0.9565217391304348,
+  "recall": 1.0,
+  "f1_score": 0.9777777777777777,
+  "roc_auc": 0.9991644385026739,
+  "confusion_matrix": [
+    [
+      134,
+      2
+    ],
+    [
+      0,
+      44
+    ]
+  ]
+}
